@@ -2,10 +2,8 @@
 |   0   |   0   |   0   |   0   |
 |   0   |   0   |   1   |   0   |
 |   0   |   1   |   0   |   0   |
-|   0   |   1   |   1   |   1   | => not a and b and sel
-|   1   |   0   |   0   |   1   | => a and not b and not sel
+|   0   |   1   |   1   |   1   |
+|   1   |   0   |   0   |   1   |
 |   1   |   0   |   1   |   0   |
-|   1   |   1   |   0   |   1   | => a and b and not sel
-|   1   |   1   |   1   |   1   | => a and b and sel
-
-(not a and b and sel) or (a and not b and not sel) or (a and b and not sel) or (a and b and sel)
+|   1   |   1   |   0   |   1   |
+|   1   |   1   |   1   |   1   |
